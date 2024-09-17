@@ -29,4 +29,5 @@ Here you can see the expression used to apply CSS styling on the rectangle. \
 - In this case, multiple attributes would look like this `="CMSTYLE[{style}background-color: black;],[{title}RECTANGLE]"`.
 - As you can also see, to define each attribute you have to put the name of the attribute in curly brackets `{}` at the beginning of each set of brackets `[]`. IE: `[{attribute-name}value]`
 - Now going back to the first expression, `="CMSTYLE[{style}background-color: black; box-shadow: 10px 5px 5px red;]"` when inputted into the tooltip, the rectangle will be displayed like below after the report is rendered: \
+\
 ![aferchanges](https://github.com/steven-3/Dashboard-Best-Practices/blob/c5f185429131607ee8afaf96d1ecf29c64b5dd99/Screenshot%202024-09-17%20173753.png)
